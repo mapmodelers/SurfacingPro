@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<defs>
+<linearGradient id="hue" x1="0.1" y1="0.2" x2="0.9" y2="0.8">
+<stop offset="0" stop-color="#FF2B1E"/>
+<stop offset="0.5" stop-color="#C8B020"/>
+<stop offset="1" stop-color="#1FDB3A"/>
+</linearGradient>
+<radialGradient id="shade" cx="0.36" cy="0.3" r="0.8">
+<stop offset="0" stop-color="#000000" stop-opacity="0"/>
+<stop offset="0.45" stop-color="#000000" stop-opacity="0.08"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.92"/>
+</radialGradient>
+</defs>
+<circle cx="12" cy="12" r="10" fill="url(#hue)"/>
+<circle cx="12" cy="12" r="10" fill="url(#shade)"/>
+</svg>
