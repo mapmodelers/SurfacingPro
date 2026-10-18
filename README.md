@@ -29,7 +29,11 @@ From source: C++ project, Visual Studio 2022.
 
 ## Bugs
 
-[Issues](https://github.com/mapmodelers/SurfacingPro/issues), with your UE version and the steps. The newest file in `<YourProject>/Saved/SurfacingPro/Sessions/` helps most; it holds your asset names, so email it to [support@mapmodelers.com](mailto:support@mapmodelers.com) rather than posting it.
+[Issues](https://github.com/mapmodelers/SurfacingPro/issues), with your UE version and the steps. Feedback and ideas: [Discussions](https://github.com/mapmodelers/SurfacingPro/discussions).
+
+Debug notes: in the mode, press **X**, type a line and press Enter. It goes into the session record with what you were doing. The record stays on your PC, in `<YourProject>/Saved/SurfacingPro/Sessions/` (turn it off with **Record sessions** in Editor Preferences › Plugins › SurfacingPro). It holds your asset names, so email the newest file to [support@mapmodelers.com](mailto:support@mapmodelers.com) rather than posting it.
+
+Updates: on GitHub, **Watch → Custom → Releases**.
 
 ## AI
 
