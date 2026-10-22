@@ -21,4 +21,6 @@ C++ project, Visual Studio 2022, Unreal Engine 5.8. Tests: Session Frontend → 
 ## Rules
 
 - Keep copyright headers and license notices.
+- Use standard level-design and surfacing words (brush, patch, displacement, hotspot, trim sheet, lightmap, carve, blockout) rather than invented ones.
+- Never copy code, UI layouts, icons, artwork or documentation text from other tools.
 - License: `LICENSE.md`.

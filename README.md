@@ -1,8 +1,6 @@
 # SurfacingPro
 
-> **Experimental, in progress.** Built with AI. Prebuilt for Unreal Engine 5.8 (Win64) in [Releases](https://github.com/mapmodelers/SurfacingPro/releases); more engine versions soon.
-
-The source is public and built with AI. To adapt it to your own pipeline, AI is the recommended way.
+> **Experimental, in progress.** Prebuilt for Unreal Engine 5.8 (Win64) in [Releases](https://github.com/mapmodelers/SurfacingPro/releases); more engine versions soon.
 
 **Surface modeling solution in Unreal Engine 5 with PBR Blend Shading and Decals.**
 
@@ -39,7 +37,7 @@ Updates: on GitHub, **Watch → Custom → Releases**.
 
 ## AI
 
-Built with AI, directed and tested by MapModelers. Specifications, conventions and source are written for models to read: AI is the recommended way to study or adapt this code for your own use, within the license. AI agents: start with [AGENTS.md](AGENTS.md).
+The source is public and built with AI, directed and tested by MapModelers. Specifications, conventions and source are written for models to read: AI is a practical way to study the code or adapt it to your own pipeline, within the license. AI agents: start with [AGENTS.md](AGENTS.md).
 
 ## License
 
